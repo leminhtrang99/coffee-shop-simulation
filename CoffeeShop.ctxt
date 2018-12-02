@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=CoffeeShop
+comment1.params=
+comment1.target=CoffeeShop()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ CoffeeShop\n
+comment2.params=c
+comment2.target=void\ addCustomer(Customer)
+comment2.text=\n\ Add\ the\ first\ customer\ to\ the\ end\ of\ the\ customer\ LinkedList\n
+comment3.params=
+comment3.target=Customer\ removeCustomer()
+comment3.text=\n\ @return\ \ \ \ the\ first\ customer\ from\ the\ beginning\ of\ the\ customer\ LinkedList\n
+comment4.params=e
+comment4.target=void\ addEvent(Event)
+comment4.text=\n\ Add\ a\ new\ event\ into\ the\ PriorityQueue\ based\ on\ order\ of\ time\n
+comment5.params=
+comment5.target=Event\ removeEvent()
+comment5.text=\n\ @return\ \ \ \ the\ earliest\ event\ from\ the\ PriorityQueue\n
+numComments=6
