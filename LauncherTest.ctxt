@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=LauncherTest
+comment0.text=\n\ The\ test\ class\ LauncherTest.\n\n\ Trang\ Le\n\ Professor\ Xia\n\ CS\ 150-02\:\ Data\ Structures\ &\ Algorithms\n\ v1.0\ Sep\ 25,\ 2018\n
+comment1.params=
+comment1.target=LauncherTest()
+comment1.text=\n\ Default\ constructor\ for\ test\ class\ LauncherTest\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\n\ Sets\ up\ the\ test\ fixture.\n\n\ Called\ before\ every\ test\ case\ method.\n
+comment3.params=
+comment3.target=void\ testConvertTimeToSecondAM()
+comment4.params=
+comment4.target=void\ testConvertTimeToSecondMidnight()
+comment5.params=
+comment5.target=void\ testConvertTimeToSecondNoon()
+comment6.params=
+comment6.target=void\ testConvertTimeToSecondPM()
+comment7.params=
+comment7.target=void\ tearDown()
+comment7.text=\n\ Tears\ down\ the\ test\ fixture.\n\n\ Called\ after\ every\ test\ case\ method.\n
+numComments=8
