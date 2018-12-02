@@ -1,0 +1,6 @@
+Total profit: 2,108.00
+Total cost: 1,800.00
+Net profit: 308.00
+Average wait duration: 1 seconds
+Max wait duration: 77 seconds
+Overflow rate: 0.00%
