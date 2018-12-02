@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Event
+comment0.text=\n\ Event\ is\ a\ class\ that\ simulates\ an\ event\ at\ the\ coffee\ shop\n\ and\ keeps\ track\ of\ the\ customer\ related\ to\ the\ event,\ the\ time\ of\ the\ event,\n\ and\ the\ type\ (either\ arrival\ or\ departure)\ of\ the\ event\n\n\ Trang\ Le\n\ Professor\ Xia\n\ CS\ 150-02\:\ Data\ Structures\ &\ Algorithms\n\ v1.0\ Sep\ 25,\ 2018\n
+comment1.params=customerNum_\ eventTime_\ eventType_
+comment1.target=Event(int,\ int,\ java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ the\ class\ Event\n
+comment2.params=
+comment2.target=int\ getCustomerNum()
+comment2.text=\ \n\ Getters\ for\ parameters\ of\ the\ class\ Event\n
+comment3.params=
+comment3.target=int\ getEventTime()
+comment4.params=
+comment4.target=java.lang.String\ getEventType()
+comment5.params=e
+comment5.target=int\ compareTo(Event)
+comment5.text=\n\ @param\ \ \ e\ \ \ is\ an\ instance\ of\ the\ class\ Event\ being\ compared\n\ @return\ \ -1\ \ if\ e\ happens\ before\ the\ other\ event\n\ @return\ \ 0\ \ \ if\ e\ happnes\ at\ the\ same\ time\ as\ the\ other\ event\n\ @return\ \ 1\ \ \ if\ e\ happnes\ later\ the\ other\ event\n
+numComments=6

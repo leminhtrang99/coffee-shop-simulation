@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=EventTest
+comment0.text=\n\ The\ test\ class\ EventTest.\n\n\ Trang\ Le\n\ Professor\ Xia\n\ CS\ 150-02\:\ Data\ Structures\ &\ Algorithms\n\ v1.0\ Sep\ 25,\ 2018\n
+comment1.params=
+comment1.target=EventTest()
+comment1.text=\n\ Default\ constructor\ for\ test\ class\ EventTest\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\n\ Sets\ up\ the\ test\ fixture.\n\n\ Called\ before\ every\ test\ case\ method.\n
+comment3.params=
+comment3.target=void\ compareEqualEventTest()
+comment4.params=
+comment4.target=void\ compareEarlierEventTest()
+comment5.params=
+comment5.target=void\ compareLaterEventTest()
+comment6.params=
+comment6.target=void\ tearDown()
+comment6.text=\n\ Tears\ down\ the\ test\ fixture.\n\n\ Called\ after\ every\ test\ case\ method.\n
+numComments=7
